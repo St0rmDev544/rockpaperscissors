@@ -1,5 +1,11 @@
 # Rock, Paper & Scissors
 
+
+## NOTE: File Directories
+
+* **main.py = Template to fill in your code for the activity**
+* **solution.py = ANSWER/SOLUTION for the coding activity**
+
 ## Instructions:
 
 Make a rock, paper, scissors game. 
@@ -16,9 +22,7 @@ From there you will need to figure out:
 * How you will compare the user's and the computer's choice to determine the winner (or a draw).
 * And also how you will give feedback to the player.
 
-# Extra:
-
-## Debugging Challenge:
+## EXTRA: Debugging Challenge:
 
 Try running this code and type `5`.
 
